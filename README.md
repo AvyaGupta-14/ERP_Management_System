@@ -2,14 +2,14 @@
 
 Steps to Run this Project:
 
-First install PHP and XAMPP on your system.
-Then Extract the File.
-you will get a ums file.
-copy that ums file.
-then paste that on C:/XAMPP/htdocs/ (if htdocs is not created, create one).
-after that open XAMPP Control panel.
-then start Apache and MySQL Servers.
-then go to your web browser.
-Then in your url type phpmyadmin.
-then import the database file into this.
-then in your url type localhost/ums.
+1. First install PHP and XAMPP on your system.
+2. Then Extract the File.
+3. you will get a ums file.
+4. copy that ums file.
+5. then paste that on C:/XAMPP/htdocs/ (if htdocs is not created, create one).
+6. after that open XAMPP Control panel.
+7. then start Apache and MySQL Servers.
+8. then go to your web browser.
+9. Then in your url type phpmyadmin.
+10. then import the database file into this.
+11. then in your url type localhost/ums.
